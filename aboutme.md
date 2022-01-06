@@ -1,16 +1,16 @@
 ---
 layout: page
 title: About me
-subtitle: Why you'd want to go on a date with me
+subtitle:
 ---
 
-My name is Inigo Montoya. I have the following qualities:
 
-- I rock a great mustache
-- I'm extremely loyal to my family
+Short bio: 
 
-What else do you need?
+- Since 2016 : associate professor (part-time) at University Grenoble-Alpes
+  - teaching computational statistics, machine learning and project management to masters's students
+- Since 2008: research engineer at bioMérieux (Grenoble)
+  - bringing ML expertise
 
-### My story
 
-To be honest, I'm having some trouble remembering right now, so why don't you just watch [my movie](https://en.wikipedia.org/wiki/The_Princess_Bride_%28film%29) and it will answer **all** your questions.
+You can have a look to my [detailed résumé](https://pmahe.github.io/aboutme/) for further details. 
