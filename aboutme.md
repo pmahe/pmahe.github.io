@@ -8,7 +8,7 @@ subtitle:
 ### Short bio: 
 
 - **Since 2016** : associate professor (part-time) at University Grenoble-Alpes
-  - teaching computational statistics, machine learning and project management to masters's students
+  - teaching computational statistics, machine learning and project management to M.Sc students
 - **Since 2008**: research engineer at bioMérieux (Grenoble)
   - Providing machine learning expertise to support R&D projects related to *in vitro* diagnostics and clinical microbiology. 
   - Mentoring of students and junior employees.
