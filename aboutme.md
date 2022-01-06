@@ -5,7 +5,7 @@ subtitle:
 ---
 
 
-Short bio: 
+### Short bio: 
 
 - Since 2016 : associate professor (part-time) at University Grenoble-Alpes
   - teaching computational statistics, machine learning and project management to masters's students
