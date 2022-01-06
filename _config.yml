@@ -6,19 +6,17 @@
 # --- Required options --- #
 
 # Name of website
-title: Pierre Mahé - Research Engineer
+title: Pierre Mahé
 
 # Your name to show in the footer
-author: Some Person - PIERRE 
+author: Pierre Mahé 
 
 # --- List of links in the navigation bar --- #
 
 navbar-links:
   About Me: "aboutme"
-  Resources:
-    - Beautiful Jekyll: "https://beautifuljekyll.com"
-    - Learn markdown: "https://www.markdowntutorial.com/"
-  Author's home: "https://deanattali.com"
+  Teaching : "courses"
+  Publications : "https://scholar.google.fr/citations?user=3yLMPGgAAAAJ"
 
 # --- Logo --- #
 
