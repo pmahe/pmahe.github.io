@@ -14,5 +14,5 @@ I mainly teach with the ["Statistics and Data Science" M.Sc program](https://for
 * ["Statistique Computationnelle"](../teaching_stat-comp)
 * ["Gestion de Projet"](../teaching_project/)
 
-I am most grateful to [Adeline Leclercq-Samson](http://adeline.e-samson.org/) and [Jean-François Coeurjolly](https://sites.google.com/site/homepagejfc/) for their trust and support in my activities !
+I am most grateful to [Adeline Leclercq-Samson](http://adeline.e-samson.org/) and [Jean-François Coeurjolly](https://sites.google.com/site/homepagejfc/) for their trust and support !
 
