@@ -14,5 +14,5 @@ subtitle:
   - Mentoring of students and junior employees.
   - Definition, planning and management of R&D projects.
 
-You can have a look to my [detailed résumé](https://pmahe.github.io/_data/CV.pdf) for further details. 
+You can have a look to my [detailed résumé](https://pmahe.github.io/data/CV.pdf) for further details. 
 
