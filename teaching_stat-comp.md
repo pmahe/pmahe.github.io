@@ -13,14 +13,20 @@ Après avoir évoqué quelques techniques classiques de simulation de variables 
 Les séances pratiques seront réalisées en R.
 
 
-* Simulation de variables aléatoires et méthodes de Monte Carlo pour l'intégration
+* **Simulation de variables aléatoires** et **méthodes de Monte Carlo pour l'intégration**
 	* [cours](https://pmahe.github.io/data/teaching/stat-comp/monte-carlo_part-1.pdf) + [TP](https://pmahe.github.io/data/teaching/stat-comp/TP1.pdf)
 
-* Méthodes de Monte Carlo pour l'inférence statistique
+* **Méthodes de Monte Carlo pour l'inférence statistique**
 	* [cours](https://pmahe.github.io/data/teaching/stat-comp/monte-carlo_part-2.pdf) + [TP](https://pmahe.github.io/data/teaching/stat-comp/TP2.pdf)
 
-* Bootstrap
+* **Bootstrap**
 	* [cours](https://pmahe.github.io/data/teaching/stat-comp/bootstrap.pdf) + [TP](https://pmahe.github.io/data/teaching/stat-comp/TP3.pdf)
 
-* Test statistiques par permutation
+* **Tests statistiques par permutation**
 	* [cours](https://pmahe.github.io/data/teaching/stat-comp/permutation.pdf) + [TP](https://pmahe.github.io/data/teaching/stat-comp/TP4.pdf)
+
+
+
+N'hésitez pas à [me contacter](mailto:pierre.mahe@biomerieux.com) pour obtenir la correction des TPs.
+
+
