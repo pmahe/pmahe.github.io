@@ -10,19 +10,20 @@ Après une introduction générale au domaine de de l’apprentissage statistiqu
 
 Les séances pratiques seront réalisées sous R:
 
-* **Cours 1**: [introduction générale au domaine de l'apprentissage statistique](https://pmahe.github.io/data/teaching/app-stat-1/intro_ml.pdf)
-	* [TP1](https://pmahe.github.io/data/teaching/app-stat-1/TP1.zip): régressions polynomiales et ACP
-* **Cours 2**: [apprentissage non-supervisé : concepts & méthodes clés](https://pmahe.github.io/data/teaching/app-stat-1/unsupervised.pdf)
-* **Cours 3**: [algorithmes de clustering hiérarchique et mesures de similarité / disimilarité](https://pmahe.github.io/data/teaching/app-stat-1/hclust-distances.pdf)
-	* [TP2](https://pmahe.github.io/data/teaching/app-stat-1/TP1.zip): MDS, clustering hierarchique et one-class SVM
-* **Cours 4**: [algorithme de k-means & mélanges de Gaussiennes pour le clustering](https://pmahe.github.io/data/teaching/app-stat-1/kmeans-mog.pdf)
-	* TP3: devoir maison
-* **Cours 5**: [apprentissage supervisé : concepts clés & algorithme des k-ppv](https://pmahe.github.io/data/teaching/app-stat-1/supervised.pdf)
-	* [TP4](https://pmahe.github.io/data/teaching/app-stat-1/TP4.zip): courbes ROC et k-ppv
-* **Cours 6**: [modèles probabilistes de classification](https://pmahe.github.io/data/teaching/app-stat-1/lda-qda-logreg.pdf)
-	* [TP5](https://pmahe.github.io/data/teaching/app-stat-1/TP5.zip): LDA, QDA et régression logistique
-* **Cours 7**: Lasso et modèles pénalisés
-	* TP6: lasso/ridge/elasticnet et le package glmnet
+* **Cours 1: introduction générale au domaine de l'apprentissage statistique**
+	* [cours](https://pmahe.github.io/data/teaching/app-stat-1/intro_ml.pdf) + [TP](https://pmahe.github.io/data/teaching/app-stat-1/TP1.zip) (régressions polynomiales et ACP)
+* **Cours 2: apprentissage non-supervisé : concepts & méthodes clés**
+	* [cours](https://pmahe.github.io/data/teaching/app-stat-1/unsupervised.pdf)
+* **Cours 3: algorithmes de clustering hiérarchique et mesures de similarité / disimilarité**
+	* [cours](https://pmahe.github.io/data/teaching/app-stat-1/hclust-distances.pdf) + [TP](https://pmahe.github.io/data/teaching/app-stat-1/TP1.zip) (MDS, clustering hierarchique et one-class SVM)
+* **Cours 4: algorithme de k-means & mélanges de Gaussiennes pour le clustering**
+	* [cours](https://pmahe.github.io/data/teaching/app-stat-1/kmeans-mog.pdf) (+TP - devoir maison) 
+* **Cours 5: apprentissage supervisé : concepts clés & algorithme des k-ppv**
+	* [cours](https://pmahe.github.io/data/teaching/app-stat-1/supervised.pdf) + [TP](https://pmahe.github.io/data/teaching/app-stat-1/TP4.zip) (courbes ROC et k-ppv)
+* **Cours 6: modèles probabilistes de classification**
+	* [cours](https://pmahe.github.io/data/teaching/app-stat-1/lda-qda-logreg.pdf) + [TP](https://pmahe.github.io/data/teaching/app-stat-1/TP5.zip) (LDA/QDA et régression logistique)
+* **Cours 7: Lasso et modèles pénalisés**
+	* cours + TP (lasso/ridge/elasticnet et le package glmnet)
 
 
 N'hésitez pas à [me contacter](mailto:pierre.mahe@biomerieux.com) pour obtenir la correction des TPs.
