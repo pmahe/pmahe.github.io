@@ -4,7 +4,7 @@ title: Apprentissage Statistique I
 subtitle:
 ---
 
-Le module **Apprentissage Statistique I** s'inscrit dans la continuité du cours d’Analyse de Données, et vise à donner une **introduction au domaine de l'apprentissage statistique**.
+Le module **Apprentissage Statistique I** s'inscrit dans la continuité du cours [Analyse de Données](https://formations.univ-grenoble-alpes.fr/fr/catalogue-2021/master-XB/master-mathematiques-et-applications-IAQKA8QE/parcours-statistique-et-sciences-de-sonnees-ssd-IB9H3QIQ/ue-analyse-des-donnees-IGKV3868.html), et vise à donner une **introduction au domaine de l'apprentissage statistique**.
 
 Après une introduction générale au domaine de de l’apprentissage statistique, nous évoquerons différents concepts et méthodes clés de l’apprentissage non-supervisé et étudierons en détail les algorithmes du clustering hiérarchique, des nuées dynamiques (k-means) et de clustering par modèles de mélange de gaussiennes. Nous aborderons ensuite le cadre de l’apprentissage supervisé au travers de l’algorithme des k plus proches voisins, des modèles probabilistes de classification (LDA, QDA et régression logistique) et terminerons par une introduction aux modèles pénalisés.
 
@@ -23,7 +23,7 @@ Les séances pratiques seront réalisées sous R:
 * **Cours 6 : modèles probabilistes de classification**
 	* [cours](https://pmahe.github.io/data/teaching/app-stat-1/lda-qda-logreg.pdf) + [TP](https://pmahe.github.io/data/teaching/app-stat-1/TP5.zip) (LDA/QDA et régression logistique)
 * **Cours 7 : Lasso et modèles pénalisés**
-	* cours + TP (lasso/ridge/elasticnet et le package glmnet)
+	* cours + TP (lasso/ridge/elasticnet et le package [glmnet](https://cran.r-project.org/web/packages/glmnet/index.html))
 
 
 N'hésitez pas à [me contacter](mailto:pierre.mahe@biomerieux.com) pour obtenir la correction des TPs.
