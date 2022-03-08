@@ -23,7 +23,7 @@ Les séances pratiques seront réalisées sous R:
 * **Cours 6 : modèles probabilistes de classification**
 	* [cours](https://pmahe.github.io/data/teaching/app-stat-1/lda-qda-logreg.pdf) + [TP](https://pmahe.github.io/data/teaching/app-stat-1/TP5.zip) (LDA/QDA et régression logistique)
 * **Cours 7 : Lasso et modèles pénalisés**
-	* cours + TP (lasso/ridge/elasticnet et le package [glmnet](https://cran.r-project.org/web/packages/glmnet/index.html))
+	* [cours](https://pmahe.github.io/data/teaching/app-stat-1/lasso.pdf) + [TP](https://pmahe.github.io/data/teaching/app-stat-1/TP6.zip) (lasso/ridge/elasticnet et le package [glmnet](https://cran.r-project.org/web/packages/glmnet/index.html))
 
 
 N'hésitez pas à [me contacter](mailto:pierre.mahe@biomerieux.com) pour obtenir la correction des TPs.
